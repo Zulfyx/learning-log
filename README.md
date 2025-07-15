@@ -1,1 +1,2 @@
 # learning-log
+updated README
